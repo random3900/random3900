@@ -8,7 +8,7 @@ I'm Roopa, an engineer in the making who loves learning new things. :wave:
 * :books: I'm currently learning about Java servlets and React.
 * :seedling: I like reading, public speaking and growing plants.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=random3900) ![](https://github-readme-stats.vercel.app/api?username=random3900&show_icons=true&line_height=33)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=random3900) ![](https://github-readme-stats.vercel.app/api?username=random3900&show_icons=true&line_height=33&hide_rank=true)
 <img src="https://activity-graph.herokuapp.com/graph?username=random3900&bg_color=f3f3f3&color=333333&line=4f94ef&point=4f94ef&area=true&hide_border=true"/>
 
 ### Connect with me
